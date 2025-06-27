@@ -73,7 +73,7 @@ Main Python packages:
 
 - `Astro_StarterPack.ipynb` – 📌 full pipeline (main notebook)
 - `fichiers_par_field.csv` – pre-generated observation index
-- `apertphoto_modified.py` – `AstroTools` class (modular backend)
+- `ztf_transient_pipeline.py` – `AstroTools` class (modular backend)
 - `Your_First_SNIa.ipynb` – example on SN ZTF17aadlxmv
 - `CSVDownloader.ipynb` – archive index generation (run once)
 
